@@ -11,6 +11,10 @@ public class StartMe {
 		System.out.println("Hello world 2");
 		
 		// Commend in Master
+		System.out.println("Hello world 1");
+		System.out.println("Hello world 22");
+		System.out.println("First Branch");
+		System.out.println("Sec Branch");
 
 	}
 
